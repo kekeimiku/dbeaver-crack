@@ -12,7 +12,7 @@
 	
 ## 使用方法	
 
-下载 https://github.com/kekeimiku/dbeaver-crack/releases/download/21.2.0-1/dbeaver-ee.zip 然后解压，运行 
+下载 https://github.com/kekeimiku/dbeaver-crack/releases/download/21.2.0-1/dbeaver-ee-21.2.0-1-x86_64.pkg.tar.zst 运行 
 	
 ```
 sudo pacman -U dbeaver-ee-21.2.0-1-x86_64.pkg.tar.zst
