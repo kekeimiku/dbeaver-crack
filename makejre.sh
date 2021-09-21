@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/usr/lib/jvm/java-11-openjdk/bin/jlink --no-header-files --no-man-pages --compress=2 --add-modules java.instrument,java.sql,jdk.management,java.datatransfer,java.sql.rowset,jdk.naming.dns,java.desktop,java.transaction.xa,jdk.naming.rmi,java.logging,java.xml,jdk.net,java.management,jdk.attach,jdk.security.auth,java.management.rmi,jdk.charsets,jdk.security.jgss,java.naming,jdk.crypto.cryptoki,jdk.unsupported,java.prefs,jdk.crypto.ec,jdk.unsupported.desktop,java.rmi,jdk.httpserver,jdk.xml.dom,java.scripting,jdk.internal.jvmstat,modules,java.security.jgss,jdk.jcmd,java.security.sasl,jdk.localedata --output jre
